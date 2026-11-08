@@ -1,0 +1,6 @@
+{
+  "name": "Between Darkness and Peace - Anime Video Studio",
+  "description": "Cinematic anime video generator and player featuring Eren Yeager and Thorfinn, capturing the boundary between darkness and peace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
